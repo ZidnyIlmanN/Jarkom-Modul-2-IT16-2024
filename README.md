@@ -368,7 +368,7 @@ www.log.panah.pasopati   IN  CNAME   log.panah.pasopati
 
 ### Gunakan Perintah `dig` untuk Memeriksa
 
-Setelah memastikan semua pengaturan benar, Anda bisa menggunakan perintah `dig` untuk memeriksa apakah transfer berhasil. Pastikan Anda menjalankan perintah ini di server Majapahit:
+Setelah memastikan semua pengaturan benar, kita bisa menggunakan perintah `dig` untuk memeriksa apakah transfer berhasil. Pastikan kita menjalankan perintah ini di server Majapahit:
 
 ```bash
 dig @IP_Sriwijaya xxxx.com AXFR
