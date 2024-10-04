@@ -371,5 +371,5 @@ www.log.panah.pasopati   IN  CNAME   log.panah.pasopati
 Setelah memastikan semua pengaturan benar, kita bisa menggunakan perintah `dig` untuk memeriksa apakah transfer berhasil. Pastikan kita menjalankan perintah ini di server Majapahit:
 
 ```bash
-dig @IP_Sriwijaya xxxx.com AXFR
+dig 192.241.2.4 it16.com AXFR
 ```
